@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer and CC🌟.</h3>
 
 <br>
-![]([https://komarev.com/ghpvc/?username=Micky373](https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat))
+![](https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat)
 <!-- <p align="right"> Profile Views: <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
     alt="AshkanPoyber" />  -->
   </p>
