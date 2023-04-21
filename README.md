@@ -20,7 +20,7 @@
 - ⭕  Currently Working On PoyberShop Project , a Web Store For My University Project.
 <br>
 
-<h3 align="left">Connect with me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="25px" height = "30px"/></h3> 
+<h3 align="left">Connect with me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="25px" height = "60px"/></h3> 
 <p align="left">
   <a href="https://www.linkedin.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
