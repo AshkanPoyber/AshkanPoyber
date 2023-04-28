@@ -17,7 +17,7 @@
 
 - ⚡ Fun Fact :- Hope And Music 🎵 And Family Are The Reasons For Life.
 
-- ⭕  Currently Working On PoyLearn Project , a Learning WebSite For My University Project.
+- ⭕  Currently Working On PoyLearn Project , a Educational WebSite For My University Project.
 <br>
 
 <h3 align="left">Connect with me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
