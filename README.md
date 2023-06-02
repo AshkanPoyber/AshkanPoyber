@@ -106,6 +106,12 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
       
 
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
+        
+
+
 
   <b>❤️ Thank You For Visiting My Github Profile ❤️</b>
 
