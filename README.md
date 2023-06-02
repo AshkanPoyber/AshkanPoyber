@@ -7,7 +7,7 @@
 </p>
   
 <br>
-<img align="right" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
+<p><img align="right" src="https://github.com/AshkanPoyber/AshkanPoyber/blob/main/animation_500_kxa883sd.gif" alt="AshkanPoyber" /> </p>
 
 
 
