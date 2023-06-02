@@ -4,11 +4,12 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
     alt="AshkanPoyber" /> 
-  </p>
+</p>
   
 <br>
+<img align="right" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
 
-<p><img align="right" src="https://github.com/AshkanPoyber/AshkanPoyber/blob/main/animation_500_kxa883sd.gif" alt="AshkanPoyber" /></p>
+
 
 
 - 🌱 I’m Learning Web Development And Other Programming Languages , Currently Working On Web And Game Projects And Developments.
