@@ -103,13 +103,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
       
-      
-<div align="center">
-        
-    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
-        
-</div>
 
 <div align="center">
   <b>❤️ Thank you for visiting my Github Profile ❤️</b>
