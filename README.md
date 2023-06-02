@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm <b>Ashkan</b></h1>
+<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan</h1>
 <h3 align="center">Software Engineer and CC🌟.</h3>
 
 <br>
