@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
     alt="AshkanPoyber" /> 
   </p>
+  
+  <img align="right" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
 
 <br>
 
