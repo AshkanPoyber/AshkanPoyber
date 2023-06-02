@@ -111,10 +111,8 @@
 </div>
 
 <div align="center">
-  
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+  ❤️ Thank you for visiting my Github Profile ❤️
 </div>
       
-Thanks For Stopping By And Visiting!! 😊
 <br>
 [AshkanPoyber](https://github.com/AshkanPoyber)
