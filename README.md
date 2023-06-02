@@ -111,7 +111,7 @@
 </div>
 
 <div align="center">
-  ❤️ Thank you for visiting my Github Profile ❤️
+  <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
       
 <br>
