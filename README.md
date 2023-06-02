@@ -103,9 +103,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
       
-      <div align="center">
+<div align="center">
         
-   ## Visitor Count
+   <h3>Visitor Count</h3>
    ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
         
 </div>
