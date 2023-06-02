@@ -104,9 +104,9 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
       
 
-<div align="center">
+<!-- <div align="center">
   <b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
+</div> -->
       
 <br>
 [AshkanPoyber](https://github.com/AshkanPoyber)
