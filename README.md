@@ -2,11 +2,14 @@
 <h3 align="center">Software Engineer and CC🌟.</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
     alt="AshkanPoyber" /> 
   </p>
   
-  <img align="right" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
+<!--   https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat -->
+<!-- https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif -->
+  
+
 
 <br>
 
