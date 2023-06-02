@@ -37,7 +37,7 @@
  <a href="https://twitter.com/AshkanPoyberYT" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
-    <a href="[https://discord.gg/#9579](https://discord.gg/EfcmrxWB)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9579" height="30" width="40" /></a>
+    <a href="https://discord.gg/EfcmrxWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9579" height="30" width="40" /></a>
 </p>
 
 <br>
