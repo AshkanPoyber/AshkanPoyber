@@ -3,7 +3,7 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
-    alt="AshkanPoyber" />  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SasinduNanayakkara?label=Followers&style=social" alt="GitHub Badge"></a>
+    alt="AshkanPoyber" />  <a href="https://github.com/AshkanPOyber?tab=followers"><img src="https://img.shields.io/github/followers/AshkanPoyber?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   
 <br>
