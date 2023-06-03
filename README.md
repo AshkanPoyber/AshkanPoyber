@@ -1,4 +1,4 @@
-<h1 align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 10%> Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
+<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
 <h3 align="center">Software Engineer and CC🌟.</h3>
 
 <br>
