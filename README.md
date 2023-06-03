@@ -89,7 +89,7 @@
 
 <br>
 
-## Top Languages:
+## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
