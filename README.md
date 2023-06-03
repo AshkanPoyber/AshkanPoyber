@@ -7,7 +7,7 @@
 </p>
   
 <br>
-<p><img align="right" src="https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/codegif.gif" alt="AshkanPoyber" /> </p>
+<p><img align="right" width="500" src="https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/codegif.gif" alt="AshkanPoyber" /> </p>
 
 
 
