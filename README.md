@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
   <a href="https://www.youtube.com/AcerMRD" target="blank"><img align="center"
-      src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png"
+      src="https://www.svgrepo.com/show/95009/youtube.svg"
       alt="AshkanPoyber" height="50" width="40" /></a>
   <a href="https://fb.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
