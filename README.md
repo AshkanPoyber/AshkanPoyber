@@ -38,7 +38,7 @@
       alt="AshkanPoyber" height="30" width="40" /></a> 
     <a href="https://discord.gg/EfcmrxWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AshkanPoyber" height="30" width="40" /></a>
     <a href="@Staff_Ashkan" target="_blank">
-   <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="30" width="40" alt="Telegram"/>
+   <img src="https://www.svgrepo.com/show/65315/telegram.svg"  width="40" height="30" alt="Telegram"/>
    </a>
 
 </p>
