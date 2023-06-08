@@ -22,7 +22,7 @@
 - ⭕  Currently Working On PoyLearn Project , a Educational WebSite For My University Project.
 <br>
 
-<h3 align="left">Connect With Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<h3 align="left">Contact With Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
   <a href="https://www.youtube.com/AcerMRD" target="blank"><img align="center"
       src="https://www.svgrepo.com/show/95009/youtube.svg"
