@@ -1,5 +1,5 @@
 <h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
-<h3 align="center">Software Engineer and CC🌟.</h3>
+<h3 align="center">Software Engineer And CC🌟.</h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
@@ -22,7 +22,7 @@
 - ⭕  Currently Working On PoyLearn Project , a Educational WebSite For My University Project.
 <br>
 
-<h3 align="left">Connect with me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<h3 align="left">Connect With Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
   <a href="https://www.youtube.com/AcerMRD" target="blank"><img align="center"
       src="https://www.svgrepo.com/show/95009/youtube.svg"
@@ -45,7 +45,7 @@
 
 <br>
 
-<h3 align="left"><h3> Languages and Tools: <img  src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px" height ="50px"/></h3>
+<h3 align="left"><h3> Languages And Tools: <img  src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px" height ="50px"/></h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
@@ -122,7 +122,7 @@
 
 
 
-  <b>❤️ Thank You For Visiting My Github Profile ❤️</b>
+  <b>❤️ Thank You For Visiting My GitHub Profile ❤️</b>
 
       
 
