@@ -1,5 +1,5 @@
 <h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan 🔥 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
-<h3 align="center">Software Engineer And CC🌟.</h3>
+<h3 align="center">Software Engineer And CC ⚡ </h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
@@ -19,7 +19,7 @@
 
 - ⚡ Fun Fact : Hope And Music 🎵 And ❤️<b>Family</b>❤️ Are The Reasons For Life.
 
-- ⭕  Currently Working On Web Game. 💪
+- ⭕  Currently Working On... 🤔😉
 <br>
 
 <h3 align="left">Contact With Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
@@ -95,7 +95,8 @@
 
 <br>
 
-## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
+## Top Languages: 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
@@ -103,7 +104,8 @@
 
 <br>
 
-## AshkanPoyber's GitHub Stats: <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
+## AshkanPoyber's GitHub Stats: 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
@@ -116,7 +118,8 @@
       
 
         
-   ## Visitor Count <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
+   ## Visitor Count
+   <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
    ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
         
 
