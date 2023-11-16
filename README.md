@@ -120,7 +120,7 @@
    
    ![Visitor Count] 
    
-(https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
+( https://profile-counter.glitch.me/{AshkanPoyber}/count.svg )
         
 
 
