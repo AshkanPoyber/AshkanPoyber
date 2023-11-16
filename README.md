@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan 🔥 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
+<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px">, I'm Ashkan <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
 <h3 align="center">Software Engineer And CC ⚡ </h3>
 
 <br>
@@ -95,8 +95,7 @@
 
 <br>
 
-## Top Languages: 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
+## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
