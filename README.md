@@ -136,5 +136,5 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/mohammadrezadalili"
+    link = "//linkedin.com/in/mohammadreza-dalili-48b842299"
 
