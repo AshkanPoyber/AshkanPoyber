@@ -29,15 +29,9 @@
   <a href="https://www.youtube.com/AcerMRD" target="blank"><img align="center"
       src="https://www.svgrepo.com/show/95009/youtube.svg"
       alt="AshkanPoyber" height="50" width="40" /></a>
-  <a href="https://fb.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="AshkanPoyber" height="30" width="40" /></a>
-  <a href="https://instagram.com/AshkanPoyber" target="blank"><img align="center"
+  <a href="https://instagram.com/MohammadrezaOfficial" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="AshkanPoyber" height="30" width="40" /></a>
- <a href="https://twitter.com/AshkanPoyberYT" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="AshkanPoyber" height="30" width="40" /></a> 
     <a href="https://discord.gg/EfcmrxWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AshkanPoyber" height="30" width="40" /></a>
     <a href="@Staff_Ashkan" target="_blank">
    <img src="https://www.svgrepo.com/show/65315/telegram.svg"  width="40" height="30" alt="Telegram"/>
