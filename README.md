@@ -24,7 +24,7 @@
 - ⭕  Currently Working On AshkanPoyber.github.io ⚡ Single Web Page For Showcase My Talent And Design,Launch RPS-WebGame ✨😎
 <br>
 
-<h3 align="left">Let's Connect: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<h3 align="left">Connect Whit Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
   <a href="https://linkedin.com/MohammadRezaDalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sattorov Kamronbek" height="30" width="40" /></a>
   <a href="https://instagram.com/MohammadrezaOfficial" target="blank"><img align="center"
