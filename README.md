@@ -26,7 +26,14 @@
 
 <h3 align="left">Connect Whit Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
-  <a href="https://linkedin.com/MohammadRezaDalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sattorov Kamronbek" height="30" width="40" /></a>
+
+<a href="https://twitter.com/ErfanMelon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+
+
+
+    
+<!--   <a href="https://linkedin.com/MohammadRezaDalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sattorov Kamronbek" height="30" width="40" /></a>
   <a href="https://instagram.com/MohammadrezaOfficial" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="AshkanPoyber" height="30" width="40" /></a>
@@ -36,7 +43,7 @@
     <a href="https://discord.gg/EfcmrxWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AshkanPoyber" height="30" width="40" /></a>
     <a href="@Staff_Ashkan" target="_blank">
    <img src="https://www.svgrepo.com/show/65315/telegram.svg"  width="40" height="30" alt="Telegram"/>
-   </a>
+   </a> -->
 
 </p>
 
