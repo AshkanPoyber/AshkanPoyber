@@ -33,7 +33,7 @@
 <a href="https://github.com/AshkanPoyber" target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/AcerMRD" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/MohammadRezaOfficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://t.me/@Staff_Ashkan" target="_blank"><img src="https://img.shields.io/badge/Telegram-#007bff?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/@Staff_Ashkan" target="_blank"><img src="https://img.shields.io/badge/Telegram-007bff?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "mailto:AshkanDalili1381@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </p>
