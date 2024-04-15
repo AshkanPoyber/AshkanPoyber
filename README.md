@@ -63,7 +63,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
       
- <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"><img src="images/adobe-premiere-logo.svg" alt="Abobe Premiere Logo" width="40" height="40"></a>
+ <a href="https://www.adobe.com/uk/products/premierepro.html" target="_blank"><img src="images/adobe-premiere-pro-logo.svg" alt="Abobe Premiere Pro Logo" width="40" height="40"></a>
       
  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="images/adobe-photoshop-logo.svg" alt="Abobe Photoshop Logo" width="40" height="40"></a>
  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank"><img src="images/adobe-illustrator-logo.svg" alt="Adobe Illustrator Logo" width="40" height="40"></a>
