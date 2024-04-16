@@ -57,7 +57,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Nodejs-FF1493?style=for-the-badge&logo=nodejs&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android-FF1493?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/VisualStudio-9932cc?style=for-the-badge&logo=visualstudio&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Vscode-9932cc?style=for-the-badge&logo=visualstudio&logoColor=white" target="_blank"></a>
 
 ## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
