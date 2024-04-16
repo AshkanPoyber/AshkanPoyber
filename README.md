@@ -126,7 +126,7 @@
 <div align="center" ><img alt="" width="100%" src="https://github.com/AshkanPoyber/AshkanPoyber/blob/main/assets/footer.png"></div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42e814&42e2f4&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42e814&height=65&section=footer"/>
 </p>
 
 
