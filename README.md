@@ -46,7 +46,7 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/Html5-FF8000?style=for-the-badge&logo=Html5&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Css3-0a47ff?style=for-the-badge&logo=Css3&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Javascript-FF1493?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Javascript-ffef63?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Php-FF1493?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Mysql-FF1493?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
