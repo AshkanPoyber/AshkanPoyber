@@ -68,7 +68,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Premiere-2b2bff?style=for-the-badge&logo=adobepremierepro&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AfterEffect-770077?style=for-the-badge&logo=adobeaftereffects&logoColor=white" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Wordpress-079df8?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Office-079df8?style=for-the-badge&logo=Office&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Office-079df8?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
 
 ## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
