@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" width="60" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="40" width="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=sass" height="40" width="60" alt="sass logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" width="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="60" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" width="60" alt="cs logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="40" width="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="60" alt="nodejs logo"  />
