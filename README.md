@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="60" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="40" width="60" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="60" alt="kotlin logo"  />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="60" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" width="60" alt="react logo"  />
   
   
 
