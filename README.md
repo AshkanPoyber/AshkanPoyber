@@ -50,8 +50,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" width="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="40" width="60" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="40" width="60" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" width="60" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" width="60" alt="sqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="60" alt="bootstrap logo"  />
+  
   
 
 
