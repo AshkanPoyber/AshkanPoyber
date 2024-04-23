@@ -73,6 +73,7 @@
 <img src="https://skillicons.dev/icons?i=premiere" height="40" width="60" alt="premiere logo"  />
 <img src="https://skillicons.dev/icons?i=ai" height="40" width="60" alt="ai logo"  />
 <img src="https://skillicons.dev/icons?i=ae" height="40" width="60" alt="ae logo"  />
+<img src="https://skillicons.dev/icons?i=xd" height="40" width="60" alt="xd logo"  />
 
 
 
