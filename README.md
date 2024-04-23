@@ -100,8 +100,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
 
-      <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanPoyber&langs_count=8&theme=onedark" alt=ShahramShakiba /> </p>
-
    ## 𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
    
    ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
