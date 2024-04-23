@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
-<h1 align="center">Hello Guys <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> I'm Ashkan <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
+<h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑮𝒖𝒚𝒔 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 𝑰'𝒎 𝑨𝒔𝒉𝒌𝒂𝒏 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
 
 <h3 align="center">
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -44,30 +44,7 @@
 
 <h3 align="left"><h3> Languages And Tools: <img  src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px" height ="50px"/></h3>
 
-<a target="_blank"><img src="https://img.shields.io/badge/Html-FF8000?style=for-the-badge&logo=Html5&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Css-0a47ff?style=for-the-badge&logo=Css3&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Javascript-ffff19?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Php-062360?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Mysql-6969ff?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Sqlserver-870000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Bootstrap-4a0095?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Csharp-8104ff?style=for-the-badge&logo=csharp&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/C++-00b6ca?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Nodejs-00ff00?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-ff0000?style=for-the-badge&logo=oracle&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Kotlin-68027d?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Android-00974b?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Vscode-20ffff?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/VisualStudio-8000ff?style=for-the-badge&logo=visualstudio&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Photoshop-0000ff?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Illustrator-800000?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Premiere-2b2bff?style=for-the-badge&logo=adobepremierepro&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/AfterEffect-770077?style=for-the-badge&logo=adobeaftereffects&logoColor=white" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Wordpress-079df8?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
+
 
 ## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
