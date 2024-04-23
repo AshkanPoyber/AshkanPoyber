@@ -46,11 +46,11 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Languages :  </h3>
 
-<img src="https://skillicons.dev/icons?i=html" height="40" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="40" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=js" height="40" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
 
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Tools :  </h3>
