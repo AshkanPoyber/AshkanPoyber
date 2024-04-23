@@ -44,7 +44,7 @@
 
 ## 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑨𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 :<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Languages :  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 :  </h3>
 
   <img src="https://skillicons.dev/icons?i=html" height="40" width="60" alt="html5 logo"  />    <img src="https://skillicons.dev/icons?i=css" height="40" width="60" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" width="60" alt="javascript logo"  />
