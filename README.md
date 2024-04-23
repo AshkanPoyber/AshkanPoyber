@@ -77,7 +77,6 @@
 <img src="https://skillicons.dev/icons?i=xd" height="40" width="60" alt="xd logo"  />
 <img src="https://skillicons.dev/icons?i=wordpress" height="40" width="60" alt="wordpress logo"  />
 <img src="https://skillicons.dev/icons?i=arduino" height="40" width="60" alt="arduino logo"  />
-<img src="https://skillicons.dev/icons?i=codepen" height="40" width="60" alt="codepen logo"  />
 <img src="https://skillicons.dev/icons?i=windows" height="40" width="60" alt="windows logo"  />
 
 
