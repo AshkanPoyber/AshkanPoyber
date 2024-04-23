@@ -86,6 +86,8 @@
 
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Running" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" alt="Cycling" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" alt="Play Games" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" alt="Watching Movies" width="50" /> 
 
+<br>
+
 ## 𝑨𝒔𝒉𝒌𝒂𝒏𝑷𝒐𝒚𝒃𝒆𝒓'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
