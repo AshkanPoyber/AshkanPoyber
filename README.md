@@ -100,8 +100,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
 
-<div id="header" align="left" >
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba Trophies" /></a> </p>
+<div id="header" align="center" >
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshkanPoyber&theme=onedark" alt="AshkanPoyber Trophies" /></a> </p>
 </div>
 
    ## 𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
