@@ -46,7 +46,7 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Languages :  </h3>
 
-  <img src="https://skillicons.dev/icons?i=html" height="40" width="50" alt="html5 logo"  />   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" width="60" alt="html5 logo"  />   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
