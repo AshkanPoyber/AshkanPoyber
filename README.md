@@ -20,9 +20,9 @@
 
 
 
-- 🌱 I’m Learning Web Development And Other Programming Languages , Currently Working Multiple Websites And Webpages And Focus On University 👨‍🎓.
+- 🌱 𝗜’𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗔𝗻𝗱 𝗢𝘁𝗵𝗲𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 , 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗠𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 𝗔𝗻𝗱 𝗪𝗲𝗯𝗽𝗮𝗴𝗲𝘀 𝗔𝗻𝗱 𝗙𝗼𝗰𝘂𝘀 𝗢𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 👨‍🎓.
 
-- 📫 How To Reach Me **AshkanDalili1381@gmail.com**
+- 📫 𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝗮𝗰𝗵 𝗠𝗲 **AshkanDalili1381@gmail.com**
 
 - ⚡ Fun Fact : Hope And Music 🎵 And ❤️<b>Family</b>❤️ Are The Reasons For Life.
 
