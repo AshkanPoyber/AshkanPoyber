@@ -80,8 +80,9 @@
 <img src="https://skillicons.dev/icons?i=arduino" height="40" width="60" alt="arduino logo"  />
 <img src="https://skillicons.dev/icons?i=windows" height="40" width="60" alt="windows logo"  />
 
+<br><br><br>
 
-
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗛𝗼𝗯𝗯𝗶𝗲𝘀 & 𝗟𝗲𝗶𝘀𝘂𝗿𝗲 :  </h3>
 
 
 ## 𝑻𝒐𝒑 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 : <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
