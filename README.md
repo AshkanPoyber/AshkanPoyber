@@ -67,6 +67,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode" height="40" width="60" alt="vscode logo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" width="60" alt="visualstudio logo"  />
 <img src="https://skillicons.dev/icons?i=github" height="40" width="60" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="40" width="60" alt="git logo"  />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" width="60" alt="mysql logo"  />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="60" alt="androidstudio logo"  />
 <img src="https://skillicons.dev/icons?i=unity" height="40" width="60" alt="unity logo"  />
