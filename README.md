@@ -24,9 +24,9 @@
 
 - 📫 𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝗮𝗰𝗵 𝗠𝗲 **AshkanDalili1381@gmail.com**
 
-- ⚡ Fun Fact : Hope And Music 🎵 And ❤️<b>Family</b>❤️ Are The Reasons For Life.
+- ⚡ 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁 : 𝗛𝗼𝗽𝗲 𝗔𝗻𝗱 𝗠𝘂𝘀𝗶𝗰 🎵 𝗔𝗻𝗱 ❤️𝗙𝗮𝗺𝗶𝗹𝘆❤️ 𝗔𝗿𝗲 𝗧𝗵𝗲 𝗥𝗲𝗮𝘀𝗼𝗻𝘀 𝗙𝗼𝗿 𝗟𝗶𝗳𝗲.
 
-- ⭕  Currently Working On AshkanPoyber.github.io ⚡ Single Web Page For Showcase My Talent And Design,Launch RPS-WebGame ✨😎
+- ⭕  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻 𝗔𝘀𝗵𝗸𝗮𝗻𝗣𝗼𝘆𝗯𝗲𝗿.𝗴𝗶𝘁𝗵𝘂𝗯.𝗶𝗼 ⚡ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗙𝗼𝗿 𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝗠𝘆 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻,𝗟𝗮𝘂𝗻𝗰𝗵 𝗥𝗣𝗦-𝗪𝗲𝗯𝗚𝗮𝗺𝗲 ✨😎
 <br>
 
 <h3 align="left">Connect Whit Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
