@@ -48,8 +48,8 @@
 
   <img src="https://skillicons.dev/icons?i=html" height="40" width="60" alt="html5 logo"  />    <img src="https://skillicons.dev/icons?i=css" height="40" width="60" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" width="60" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" width="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=python" height="40" width="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" width="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" width="60" alt="python logo"  />
   
 
 
