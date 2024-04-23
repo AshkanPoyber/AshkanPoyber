@@ -80,7 +80,7 @@
 <img src="https://skillicons.dev/icons?i=arduino" height="40" width="60" alt="arduino logo"  />
 <img src="https://skillicons.dev/icons?i=windows" height="40" width="60" alt="windows logo"  />
 
-<br><br><br>
+<br>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗛𝗼𝗯𝗯𝗶𝗲𝘀 & 𝗟𝗲𝗶𝘀𝘂𝗿𝗲 :  </h3>
 
