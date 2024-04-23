@@ -42,7 +42,7 @@
 
 <br>
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="32" /> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑨𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40" /> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑨𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 :  </h3>
 
