@@ -29,7 +29,7 @@
 - ⭕  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻 𝗔𝘀𝗵𝗸𝗮𝗻𝗣𝗼𝘆𝗯𝗲𝗿.𝗴𝗶𝘁𝗵𝘂𝗯.𝗶𝗼 ⚡ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗙𝗼𝗿 𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝗠𝘆 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻,𝗟𝗮𝘂𝗻𝗰𝗵 𝗥𝗣𝗦-𝗪𝗲𝗯𝗚𝗮𝗺𝗲 ✨😎
 <br>
 
-<h3 align="left">Connect Whit Me: <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<h3 align="left">𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒉𝒊𝒕 𝑴𝒆 : <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammadreza-dalili" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AshkanPoyber" target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -42,11 +42,11 @@
 
 <br>
 
-<h3 align="left"><h3> Languages And Tools: <img  src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px" height ="50px"/></h3>
+<h3 align="left"><h3> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑨𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 : <img  src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px" height ="50px"/></h3>
 
 
 
-## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
+## 𝑻𝒐𝒑 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 : <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
@@ -54,7 +54,7 @@
 
 <br>
 
-## AshkanPoyber's GitHub Stats: <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
+## 𝑨𝒔𝒉𝒌𝒂𝒏𝑷𝒐𝒚𝒃𝒆𝒓'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 : <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
@@ -67,7 +67,7 @@
       
 
         
-   ## Visitor Count <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
+   ## 𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
    
    ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
         
