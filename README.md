@@ -69,6 +69,9 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="40" width="60" alt="mysql logo"  />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="60" alt="androidstudio logo"  />
 <img src="https://skillicons.dev/icons?i=unity" height="40" width="60" alt="unity logo"  />
+<img src="https://skillicons.dev/icons?i=photoshop" height="40" width="60" alt="photoshop logo"  />
+<img src="https://skillicons.dev/icons?i=premiere" height="40" width="60" alt="premiere logo"  />
+
 
 
 
