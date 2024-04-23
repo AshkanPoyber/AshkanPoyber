@@ -84,7 +84,8 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗛𝗼𝗯𝗯𝗶𝗲𝘀 & 𝗟𝗲𝗶𝘀𝘂𝗿𝗲 :  </h3>
 
-<img src="https://github.com/AshkanPoyber/AshkanPoyber/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> 
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" />
 
 
 ## 𝑻𝒐𝒑 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 : <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" height ="50px" />
