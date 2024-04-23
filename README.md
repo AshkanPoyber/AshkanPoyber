@@ -71,6 +71,8 @@
 <img src="https://skillicons.dev/icons?i=unity" height="40" width="60" alt="unity logo"  />
 <img src="https://skillicons.dev/icons?i=photoshop" height="40" width="60" alt="photoshop logo"  />
 <img src="https://skillicons.dev/icons?i=premiere" height="40" width="60" alt="premiere logo"  />
+<img src="https://skillicons.dev/icons?i=ai" height="40" width="60" alt="ai logo"  />
+<img src="https://skillicons.dev/icons?i=ae" height="40" width="60" alt="ae logo"  />
 
 
 
