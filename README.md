@@ -96,6 +96,12 @@
 <br>
 
 ## 𝑨𝒔𝒉𝒌𝒂𝒏𝑷𝒐𝒚𝒃𝒆𝒓'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 : <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="AshkanPoyber" 
+    bg_color=#808080/></p>
+    <br>
+    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
