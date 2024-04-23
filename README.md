@@ -63,7 +63,7 @@
   
 
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Tools :  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝗧𝗼𝗼𝗹𝘀 :  </h3>
 
 <img src="https://skillicons.dev/icons?i=vscode" height="40" width="60" alt="vscode logo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" width="60" alt="visualstudio logo"  />
 <img src="https://skillicons.dev/icons?i=github" height="40" width="60" alt="github logo"  />
