@@ -29,7 +29,7 @@
 - ⭕  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻 𝗔𝘀𝗵𝗸𝗮𝗻𝗣𝗼𝘆𝗯𝗲𝗿.𝗴𝗶𝘁𝗵𝘂𝗯.𝗶𝗼 ⚡ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗙𝗼𝗿 𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝗠𝘆 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻,𝗟𝗮𝘂𝗻𝗰𝗵 𝗥𝗣𝗦-𝗪𝗲𝗯𝗚𝗮𝗺𝗲 ✨😎
 <br>
 
-<h3 align="left">𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒉𝒊𝒕 𝑴𝒆 : <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<h3 align="left"><img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="40"/> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒉𝒊𝒕 𝑴𝒆  </h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammadreza-dalili" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AshkanPoyber" target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
