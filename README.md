@@ -89,21 +89,21 @@
 <br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > 𝑨𝒔𝒉𝒌𝒂𝒏𝑷𝒐𝒚𝒃𝒆𝒓'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  
-
-<img align="center"
+<div align="center">
+<img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
     bg_color=#808080/></p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
+<p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
 
-<div id="header" align="center" >
+<div id="header">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshkanPoyber&theme=onedark" alt="AshkanPoyber Trophies" /></a> </p>
 </div>
-
+</div>
    ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > 𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕 
    
    ![Visitor Count](https://profile-counter.glitch.me/{AshkanPoyber}/count.svg)
