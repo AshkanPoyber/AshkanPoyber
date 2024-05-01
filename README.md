@@ -26,7 +26,7 @@
 
 - ⚡ 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁 : 𝗛𝗼𝗽𝗲 𝗔𝗻𝗱 𝗠𝘂𝘀𝗶𝗰 🎵 𝗔𝗻𝗱 ❤️𝗙𝗮𝗺𝗶𝗹𝘆❤️ 𝗔𝗿𝗲 𝗧𝗵𝗲 𝗥𝗲𝗮𝘀𝗼𝗻𝘀 𝗙𝗼𝗿 𝗟𝗶𝗳𝗲.
 
-- ⭕  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻 𝗔𝘀𝗵𝗸𝗮𝗻𝗣𝗼𝘆𝗯𝗲𝗿.𝗴𝗶𝘁𝗵𝘂𝗯.𝗶𝗼 ⚡ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗙𝗼𝗿 𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝗠𝘆 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻,𝗟𝗮𝘂𝗻𝗰𝗵 𝗥𝗣𝗦-𝗪𝗲𝗯𝗚𝗮𝗺𝗲 ✨😎 <b>Overall Working Multiple Websites And Webpages And Focus On University<b> 🎓
+- ⭕  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻 𝗔𝘀𝗵𝗸𝗮𝗻𝗣𝗼𝘆𝗯𝗲𝗿.𝗴𝗶𝘁𝗵𝘂𝗯.𝗶𝗼 ⚡ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗙𝗼𝗿 𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝗠𝘆 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻,𝗟𝗮𝘂𝗻𝗰𝗵 𝗥𝗣𝗦-𝗪𝗲𝗯𝗚𝗮𝗺𝗲 ✨😎 𝗢𝘃𝗲𝗿𝗮𝗹𝗹 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗠𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 𝗔𝗻𝗱 𝗪𝗲𝗯𝗽𝗮𝗴𝗲𝘀 𝗔𝗻𝗱 𝗙𝗼𝗰𝘂𝘀 𝗢𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 🎓
 <br>
 
 <h3 align="left"><img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="60"/> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒉𝒊𝒕 𝑴𝒆  </h3> 
@@ -95,7 +95,7 @@
     alt="AshkanPoyber" 
     bg_color=#808080/></p>
  
-<p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
+<p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&border_radius=5.4&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
