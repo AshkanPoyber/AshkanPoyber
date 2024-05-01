@@ -101,11 +101,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
 
 <div id="header">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshkanPoyber&theme=onedark" alt="AshkanPoyber Trophies" /></a> </p>
-</div>
-
-
-<div id="header">
 <p align="center"> <a href="ashkanpoyber.github.io"><img src="https://github-profile-trophy.vercel.app/?username=ashkanpoyber&theme=matrix&no-frame=true&no-bg=false&margin-w=4)](https://ashkanpoyber.github.io"></a> </p>
 </div>
 
