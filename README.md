@@ -95,7 +95,7 @@
     alt="AshkanPoyber" 
     bg_color=#808080/></p>
  
-<p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
+<p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
