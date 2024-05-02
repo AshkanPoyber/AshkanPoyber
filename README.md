@@ -11,7 +11,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanPoyber&label=Profile%20views&color=0e75b6&style=flat"
     alt="AshkanPoyber" /> &nbsp;&nbsp;     
-   <a href="https://github.com/AshkanPoyber?tab=followers"><img src="https://img.shields.io/github/followers/AshkanPoyber?label=Followers&style=social" alt="GitHub Followers"></a>
+   <a href="https://github.com/AshkanPoyber?tab=followers"><img src="https://img.shields.io/github/followers/AshkanPoyber?label=Followers&style=social" alt="GitHub Followers"></a> &nbsp;&nbsp;    
+      <img src="https://img.shields.io/github/stars/ashkanpoyber?label=Stars" alt="stars">
 </p>
   
 <br>
