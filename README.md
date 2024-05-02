@@ -91,14 +91,14 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > 𝑨𝒔𝒉𝒌𝒂𝒏𝑷𝒐𝒚𝒃𝒆𝒓'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  
 <div align="center">
 <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AshkanPoyber&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AshkanPoyber" 
     bg_color=#808080/></p>
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=AshkanPoyber&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
     alt="AshkanPoyber" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanPoyber&theme=chartreuse-dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AshkanPoyber" /></p>
 
 <div id="header">
 <p align="center"> <a href="ashkanpoyber.github.io"><img src="https://github-profile-trophy.vercel.app/?username=ashkanpoyber&theme=matrix&no-frame=true&no-bg=false&margin-w=4)](https://ashkanpoyber.github.io"></a> </p>
