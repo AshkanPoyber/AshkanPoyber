@@ -124,19 +124,6 @@
 <div align="center">
   <b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗧𝗵𝗮𝗻𝗸 𝗬𝗼𝘂 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </b>
 </div>
-
-**🐱 My GitHub Data** 
-
-> 📦 260.8 kB Used in GitHub's Storage 
- > 
-> 🏆 322 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
       
 
 <b>[AshkanPoyber](https://github.com/AshkanPoyber)</b>
