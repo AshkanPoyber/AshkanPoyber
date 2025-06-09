@@ -129,8 +129,9 @@
   <b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗧𝗵𝗮𝗻𝗸 𝗬𝗼𝘂 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </b>
 </div> -->
       
-
-<b align="center">[AshkanPoyber](https://github.com/AshkanPoyber)</b>
+<div align="center">
+<b>[AshkanPoyber](https://github.com/AshkanPoyber)</b>
+</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+To+Top&color=green=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/AshkanPoyber/AshkanPoyber/blob/main/assets/footer.png"></div>
