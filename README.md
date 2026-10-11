@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Reza Dalili 👋
 
-### Frontend Developer | JavaScript Enthusiast
+### Frontend Developer | Software Engineer
 
 I build modern, interactive, and user-friendly web experiences with a focus on clean code, thoughtful design, and practical functionality.
 
@@ -37,7 +37,7 @@ I enjoy turning ideas into real-world projects and continuously improving my fro
 ### Design & Media Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,premiere" alt="Adobe Photoshop and Adobe Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects" alt="Adobe Photoshop, Premiere Pro, and After Effects" />
 </p>
 
 ---
