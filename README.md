@@ -19,7 +19,7 @@ I enjoy turning ideas into real-world projects and continuously improving my fro
 ### Core Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML CSS JavaScript Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap" />
 </p>
 
 ### Backend & Database
@@ -28,10 +28,16 @@ I enjoy turning ideas into real-world projects and continuously improving my fro
   <img src="https://skillicons.dev/icons?i=php,mysql" alt="PHP and MySQL" />
 </p>
 
-### Tools & Workflow
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,androidstudio" alt="VS Code, Visual Studio, Git, GitHub, Android Studio" />
+</p>
+
+### Design & Media Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,premiere" alt="Adobe Photoshop and Adobe Premiere Pro" />
 </p>
 
 ---
@@ -95,5 +101,5 @@ An online quiz website designed to make answering questions an engaging experien
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" alt="Decorative footer" />
 </p>
